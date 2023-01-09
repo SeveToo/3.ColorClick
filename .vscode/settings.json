@@ -1,0 +1,9 @@
+// {
+//   "prettier.printWidth": 40,
+//   "prettier.proseWrap": "preserve",
+//   "editor.wordWrapColumn": 50,
+//   "diffEditor.wordWrap": "on",
+//   "html.format.wrapLineLength": 40,
+//   "C_Cpp.vcFormat.wrap.preserveBlocks": "oneLiners",
+//   "html.format.wrapAttributes": "aligned-multiple"
+// }
