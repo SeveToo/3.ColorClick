@@ -69,3 +69,17 @@ font-family: 'Poppins', sans-serif;
   text-align: center;
   margin: 1rem 0;
 }
+
+@media screen and (max-width: 768px) {
+  .app__monit {
+    font-size: 1.2rem;
+    max-width: 90vw;
+  }
+
+  .app__wrapper {
+    width: 80vw;
+    margin: 0 auto;
+    /* box-sizing: content-box; */
+  }
+}
+  
